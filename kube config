@@ -1,0 +1,2 @@
+mkdir ~/.kube
+scp master_ip:~/.kube/config ~/.kube/config
